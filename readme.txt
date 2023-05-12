@@ -12,3 +12,4 @@ admin@admin.com - usuario
 admin - password
 
 Falta por implementar, API, pasarela de pago, y algunas funcionalidades, como la tokenizacion de las sesiones...
+Perdon por no tener mas tiempo para limpiar el codigo.
