@@ -11,4 +11,4 @@ ADMIN POR DEFECTO
 admin@admin.com - usuario
 admin - password
 
-Falta por implementar, API, pasarela de pago, y algunas funcionalidades
+Falta por implementar, API, pasarela de pago, y algunas funcionalidades, como la tokenizacion de las sesiones...
